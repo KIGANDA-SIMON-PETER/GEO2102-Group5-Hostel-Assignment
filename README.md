@@ -8,16 +8,21 @@ The program stores and processes hostel information, determines whether each hos
 
 **GROUP MEMBERS**
 
-KIGANDA SIMON PETER         25/1/324/D/1638
-HUNGANA KELVIN THOMAS       25/1/324/D/582
-ATURINZIRE GOODWILL DAVIS   25/1/324/D/592
-KIKOMA PEACE DAPHINE        25/1/324/D/037
-KICONCO PAULA MUJUNI        25/1/324/D/256
-TUMWINE EDWARD              25/1/324/D/543
-NAISIKWE REBECCA            25/1/324/D/2061
-TIBIRI JOAN                 25/1/324/D/1820
-TUHAISE GORRET              25/1/324/D/2054
-BATTE STEVEN                25/1/324/D/1994
+## Group Members
+
+| No. | Name                      | Registration Number |
+| --: | ------------------------- | ------------------- |
+|   1 | KIGANDA SIMON PETER       | 25/1/324/D/1638     |
+|   2 | HUNGANA KELVIN THOMAS     | 25/1/324/D/582      |
+|   3 | ATURINZIRE GOODWILL DAVIS | 25/1/324/D/592      |
+|   4 | KIKOMA PEACE DAPHINE      | 25/1/324/D/037      |
+|   5 | KICONCO PAULA MUJUNI      | 25/1/324/D/256      |
+|   6 | TUMWINE EDWARD            | 25/1/324/D/543      |
+|   7 | NAISIKWE REBECCA          | 25/1/324/D/2061     |
+|   8 | TIBIRI JOAN               | 25/1/324/D/1820     |
+|   9 | TUHAISE GORRET            | 25/1/324/D/2054     |
+|  10 | BATTE STEVEN              | 25/1/324/D/1994     |
+
 
 ## TECHNOLOGIES USED
 
